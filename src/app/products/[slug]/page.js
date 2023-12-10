@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-import { getItem } from "./../../../utils/getPostDetail";
+import { getItem } from "../../../utils/getProdDetail";
 import { Heading } from "@chakra-ui/react";
 
 // static metadata
